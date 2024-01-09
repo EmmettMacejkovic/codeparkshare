@@ -1,4 +1,4 @@
-# 4.2 - Comentários
+! 4.2 - Comentários
 
 Descrição: Um comentário é uma parte de código que não é interpretada pelo motor JavaScript. Pode ser utilizada, também, para colocar textos que ajudam a identificar o que está sendo feito naquele trecho de código.
 
@@ -21,7 +21,7 @@ console.log("He4rtDevs <3");
 ```
 
 ### Comentários de várias linhas de código.
-iniciados com `/*` e terminados com `*/`.
+iniciados com `/!` e terminados com `*/`.
 
 ```javascript
 /* Exemplo de comentário
@@ -30,4 +30,4 @@ iniciados com `/*` e terminados com `*/`.
   Basta escolher o início
     e o fim. */
 ```
-[Proximo Capitulo](./3_Tipos-de-dados.md)
+[Proximo Capitulo](./3_Tipos-de-dados.md) 
